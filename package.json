@@ -12,6 +12,7 @@
     "@react-three/drei": "^9.117.3",
     "@react-three/fiber": "^8.17.10",
     "next": "14.2.5",
+    "peerjs": "^1.5.4",
     "react": "^18",
     "react-dom": "^18",
     "three": "^0.170.0",
