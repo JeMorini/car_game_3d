@@ -11,12 +11,17 @@
   "dependencies": {
     "@react-three/drei": "^9.117.3",
     "@react-three/fiber": "^8.17.10",
+    "@react-three/postprocessing": "^2.19.1",
+    "dotenv": "^16.4.7",
     "next": "14.2.5",
     "peerjs": "^1.5.4",
     "react": "^18",
     "react-dom": "^18",
+    "simple-peer": "^9.11.1",
+    "socket.io-client": "^4.8.1",
     "three": "^0.170.0",
-    "three-stdlib": "^2.34.0"
+    "three-stdlib": "^2.34.0",
+    "wrtc": "^0.4.7"
   },
   "devDependencies": {
     "@types/node": "^20",

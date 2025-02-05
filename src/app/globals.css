@@ -100,6 +100,13 @@ a {
   text-decoration: none;
 }
 
+button {
+  user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  touch-action: manipulation;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
